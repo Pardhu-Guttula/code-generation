@@ -1,0 +1,1 @@
+This folder contains the shopping_cart module.
