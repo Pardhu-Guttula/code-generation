@@ -1,0 +1,1 @@
+This folder contains the reviews_and_ratings module.
